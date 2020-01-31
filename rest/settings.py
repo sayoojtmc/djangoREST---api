@@ -25,7 +25,7 @@ SECRET_KEY = '8*-iiff@mpg@*e8_(nv4z817b@bit_edy8b+^4%_qxgtbx+lc8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
